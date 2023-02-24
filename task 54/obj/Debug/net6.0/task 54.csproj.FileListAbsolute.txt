@@ -1,0 +1,15 @@
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\bin\Debug\net6.0\task 54.exe
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\bin\Debug\net6.0\task 54.deps.json
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\bin\Debug\net6.0\task 54.runtimeconfig.json
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\bin\Debug\net6.0\task 54.dll
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\bin\Debug\net6.0\task 54.pdb
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.csproj.AssemblyReference.cache
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.AssemblyInfoInputs.cache
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.AssemblyInfo.cs
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.dll
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\refint\task 54.dll
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.pdb
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\task 54.genruntimeconfig.cache
+C:\Users\Tatyana\Desktop\Seminar 2.8 dz\task 54\obj\Debug\net6.0\ref\task 54.dll
